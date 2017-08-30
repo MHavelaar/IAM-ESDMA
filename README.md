@@ -1,4 +1,6 @@
 # ThesisIAM
+Mark Havelaar & Wouter Jaspers
+
 Master thesis Project: Improving Large Intervention Decisions in Infrastructure Asset Management
 
 This Folder containts the main calculation files, and visualisation of outputs of the master thesis project.
