@@ -12,7 +12,7 @@ DUO_CalculationFile_AssetConnection: EMA calculation file for the connection of 
 
 DUO_VizualisationFile_AssetConnection: EMA visualtion file for the connection of the Road, and Lock.
 
-FinalModelEMA: SD model, both in mdl (VENSIM), and html. To open mdl, please download the model, and open in VENSIM.
+MODEL folder: FinalModelEMA: SD model, both in mdl (VENSIM), and html. To open mdl, please download the model, and open in VENSIM.
 
 GENERAL_CalculationFile_basecase: Calculation file including the most important KPI's for the city, harbour, area, economy, lock, and road without asset intervention. 
 
