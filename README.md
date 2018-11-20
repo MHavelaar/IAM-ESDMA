@@ -1,9 +1,11 @@
-# ThesisIAM
+#IAM-ESDMA
 Mark Havelaar & Wouter Jaspers
 
-Master thesis Project: Long-term planning of large interventions within complex and dynamic infrastructure systems
+Long-term planning of large interventions within complex and dynamic infrastructure systems
 
 This Folder contains the SD model, and main EMA calculation, and visualization files. 
+
+INSTRUCTIONS: THE FILES CAN BE DOWNLOADED AS A ZIP BY CLICKING ON THE "DOWNLOAD FILES" BUTTON ON THE MAIN PAGE!
 
 File descriptions:
 In general, the visualization files contain the output graphs of the EMA simulation. 
